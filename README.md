@@ -1,4 +1,4 @@
-# mnist-onnx-example
+# onnx-js-face-detection
 
 this repo has a couple of examples just trying out onnx web with js 
 
