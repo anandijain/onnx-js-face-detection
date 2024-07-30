@@ -1,3 +1,4 @@
 node_modules/
 mnist-12/
 package-lock.json
+*.pem
